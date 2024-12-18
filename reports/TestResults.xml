@@ -1,0 +1,40 @@
+<assemblies timestamp="12/18/2024 00:18:40">
+  <assembly name="/Users/juanpiimperiale/Desktop/test/726640b7-deaa-4110-a211-a0a9c3ba3224/dotnet-registration-api.tests/bin/Debug/net6.0/dotnet-registration-api.tests.dll" run-date="2024-12-18" run-time="00:18:40" total="11" passed="11" failed="0" skipped="0" time="1.217" errors="0">
+    <errors />
+    <collection total="11" passed="11" failed="0" skipped="0" name="Test collection for dotnet_registration_api.tests.ApiTests" time="0.575">
+      <test name="dotnet_registration_api.tests.ApiTests.GetUser_ReturnsOk" type="dotnet_registration_api.tests.ApiTests" method="GetUser_ReturnsOk" time="0.5085072" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.DeleteProduct_ReturnsOk" type="dotnet_registration_api.tests.ApiTests" method="DeleteProduct_ReturnsOk" time="0.0237542" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.GetUser_ReturnsNotFound" type="dotnet_registration_api.tests.ApiTests" method="GetUser_ReturnsNotFound" time="0.0034163" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.RegisterUser_ReturnsBadRequest" type="dotnet_registration_api.tests.ApiTests" method="RegisterUser_ReturnsBadRequest" time="0.0143659" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.GetUsers_ReturnsOk" type="dotnet_registration_api.tests.ApiTests" method="GetUsers_ReturnsOk" time="0.0072984" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.Check_User_PasswordHash" type="dotnet_registration_api.tests.ApiTests" method="Check_User_PasswordHash" time="0.0018529" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.DeleteProduct_ReturnsNotFound" type="dotnet_registration_api.tests.ApiTests" method="DeleteProduct_ReturnsNotFound" time="0.0007746" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.UpdateUser_ReturnsNotFound" type="dotnet_registration_api.tests.ApiTests" method="UpdateUser_ReturnsNotFound" time="0.0046121" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.UpdateUser_ReturnsOk" type="dotnet_registration_api.tests.ApiTests" method="UpdateUser_ReturnsOk" time="0.0035669" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.UpdateUser_ReturnsBadRequest" type="dotnet_registration_api.tests.ApiTests" method="UpdateUser_ReturnsBadRequest" time="0.0060254" result="Pass">
+        <traits />
+      </test>
+      <test name="dotnet_registration_api.tests.ApiTests.RegisterUser_ReturnsOk" type="dotnet_registration_api.tests.ApiTests" method="RegisterUser_ReturnsOk" time="0.0008794" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

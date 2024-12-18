@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CujmQV5mmgZ4U6mJJuc9/lPiKsuTl9pBIny41mMh1QU=",
+  "Source": "dotnet-registration-api",
+  "BasePath": "_content/dotnet-registration-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
